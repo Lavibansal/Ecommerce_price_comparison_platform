@@ -41,9 +41,23 @@ Compare prices from multiple eCommerce sites.
 Enable Price Drop Alerts to get notified about discounts.
 View AI-based price trend analysis before making a purchase.
 📸 Screenshots
-IMG-20250215-WA0016 IMG-20250215-WA0014 IMG-20250215-WA0015 IMG-20250215-WA0012 IMG-20250215-WA0007 IMG-20250215-WA0017 IMG-20250215-WA0010 IMG-20250215-WA0008 IMG-20250215-WA0011
+![IMG-20250215-WA0007](https://github.com/user-attachments/assets/8601e158-9042-42c3-b106-f61507d5f189)
+![IMG-20250215-WA0008 - Copy](https://github.com/user-attachments/assets/4245eee7-2b3d-41aa-983d-2cf5cec549a8)
 
-IMG-20250215-WA0009
+![IMG-20250215-WA0008](https://github.com/user-attachments/assets/98b46c86-2d42-48cd-b371-67b0a731de66)
+![IMG-20250215-WA0010](https://github.com/user-attachments/assets/6fb487a1-e91c-4396-9694-300985a1da87)
+![IMG-20250215-WA0017](https://github.com/user-attachments/assets/761ef917-3dbb-405a-abeb-deb632d1cd4e)
+![IMG-20250215-WA0012](https://github.com/user-attachments/assets/7fd0e002-e355-43dd-a5f2-bd2250b92998)
+![IMG-20250215-WA0013](https://github.com/user-attachments/assets/4e14fc50-619e-48cf-9067-d57863608e81)
+![IMG-20250215-WA0015](https://github.com/user-attachments/assets/34ac9274-229b-4863-a518-99e2bb6b2918)
+![IMG-20250215-WA0014](https://github.com/user-attachments/assets/b9661452-362b-4fc4-9db7-f92521ae8597)
+
+
+
+
+
+
+
 
 🏆 Hackathon Contribution
 This project was built as part of [Hackathon Name], aiming to revolutionize the online shopping experience using AI and real-time data aggregation.
@@ -63,3 +77,4 @@ Submit a pull request.
 For any questions or feedback, feel free to contact:
 
 Lavi bansal
+email: bansallavi37@gmail.com
