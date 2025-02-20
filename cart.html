@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Empty Cart Page</title>
+    <style>
+        body {
+            font-family: 'Poppins', sans-serif;
+            margin: 0;
+            padding: 0;
+            height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background: linear-gradient(135deg, #ffecd2, #fcb69f);
+            color: #333;
+        }
+
+        .cart-container {
+            text-align: center;
+            background: #fff;
+            padding: 40px 30px;
+            border-radius: 20px;
+            box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3);
+            transition: transform 0.3s ease;
+        }
+
+        .cart-container:hover {
+            transform: translateY(-10px);
+        }
+
+        h2 {
+            margin-bottom: 20px;
+            color: #2c3e50;
+        }
+
+        .empty-message {
+            font-size: 18px;
+            color: #7f8c8d;
+        }
+
+        .auth-links {
+            margin-top: 20px;
+        }
+
+        .auth-links a {
+            text-decoration: none;
+            color: #fff;
+            background: linear-gradient(135deg, #6a11cb, #2575fc);
+            padding: 10px 20px;
+            border-radius: 10px;
+            margin: 5px;
+            display: inline-block;
+            transition: background 0.3s;
+        }
+
+        .auth-links a:hover {
+            background: linear-gradient(135deg, #4e0fa5, #1b4bf5);
+        }
+    </style>
+</head>
+<body>
+    <div class="cart-container">
+        <h2>Your Cart</h2>
+        <p class="empty-message">Your cart is empty. Please sign in or sign up to add items.</p>
+        <div class="auth-links">
+            <a href="login.html">Sign In</a>
+            <a href="signup.html">Sign Up</a>
+        </div>
+    </div>
+</body>
+</html>
